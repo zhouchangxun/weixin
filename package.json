@@ -9,7 +9,7 @@
     "dev": "nodemon app.js"
   },
   "dependencies": {
-    "node-wechat":""
+    "node-wechat":"",
     "express": "4.12.3",
     "leanengine": "^1.2.3"
   },
